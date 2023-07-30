@@ -68,3 +68,4 @@ COMMAND PID USER FD TYPE DEVICE SIZE/OFF NODE NAME
 - https://sysdigcloud.com/hiding-linux-processes-for-fun-and-profit/
 - https://github.com/gianlucaborello/libprocesshider
 - https://github.com/therealdreg/python_reverse_shell_detached_background
+- https://www.oreilly.com/library/view/hands-on-red-team/9781788995238/cd15b05d-822f-494d-939a-ae5a671222ff.xhtml
