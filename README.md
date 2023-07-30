@@ -1,6 +1,7 @@
-<h1 style="font-size:10vw" align="center">Linux Persistence Access </h1>
-<h2 style="font-size:7vw" align="center"><i>Exploit using Python Reverse Shell</i></h2>
+<h1 style="font-size:10vw" align="left">Linux Persistence Access </h1>
 *For educational and authorized security research purposes only*
+
+
 
 ## Original Exploit Authors
 [@gianlucaborello](https://github.com/gianlucaborello), [@therealdreg](https://github.com/therealdreg)
@@ -9,7 +10,6 @@
 This script is python based and is used to create a reverse shell of the victim machine. There are two scripts, the first one is used for a one-time reverse shell and the other for an infinite reverse shell with a loop mechanism every 2 seconds. And to improve defense evasion, we'll hide processes on Linux using the ld preloader.
 
 ## Step Guides
-
 1. Establish a connection to victim's machine using SSH
 ```
 ┌──(kali㉿kali)-[~]
@@ -62,6 +62,7 @@ COMMAND PID USER FD TYPE DEVICE SIZE/OFF NODE NAME
 - gcc
 
 ## Demo
+![Animation](https://github.com/asepsaepdin/libprocesshider/assets/122620685/5fde2a4d-355d-46cc-b211-08e9a352b83d)
 
 
 ## Warning
