@@ -1,6 +1,4 @@
 <h1 style="font-size:10vw" align="left">Linux Persistence Access </h1>
-
-## Warning
 ⚠️ *For educational and authorized security research purposes only*
 
 ## Original Exploit Authors
